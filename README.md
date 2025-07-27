@@ -50,3 +50,8 @@ After implementing and evaluating all three methodologies on a subset of the tes
     * A deeper dive into data quality, class balance, and potential ambiguities in the labels.
 
 This project successfully demonstrates the foundational steps and methodologies for LLM-based auto-tagging, providing a solid starting point for building more robust and accurate solutions.
+
+
+**Dataset**:
+
+**LINK**:https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset
